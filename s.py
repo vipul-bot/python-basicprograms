@@ -1,0 +1,2 @@
+s='izvnxvusaemgsgujwjaxkwdyeufbpfgbilfyxozyssuufxwfduudfwxfuussyzoxyflibgfpbfueydwkxajwjugsgmeasuvxnvzi'
+print(len(s))
